@@ -1,0 +1,7 @@
+configuration {
+    modi: "drun,emoji";
+    font: "Hack 10";
+    show-icons: true;
+    lines: 6;
+}
+@theme "nigu.rasi"
