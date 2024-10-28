@@ -2,8 +2,11 @@
 # ~/.bashrc
 #
 
+set -o vi
+
 eval "$(starship init bash)"
 eval "$(zoxide init --cmd cd bash)"	
+export PATH="~/.local/bin:$PATH"
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
@@ -16,3 +19,5 @@ export TERMINAL=/usr/bin/kitty
 
 export XDG_CURRENT_DESKTOP=i3
 
+. "$HOME/.cargo/env"
+alias pf='poweroff'
