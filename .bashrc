@@ -21,3 +21,6 @@ export XDG_CURRENT_DESKTOP=i3
 
 . "$HOME/.cargo/env"
 alias pf='poweroff'
+export EDITOR='vim'
+
+export PATH=$PATH:/home/nik/.spicetify
