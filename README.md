@@ -13,3 +13,11 @@ They are designed to work seamlessly with **Arch Linux** and **Debian-based dist
 - Dotfiles structured for easy portability and reusability  
 
 ---
+
+![Home](niki2.png)
+![ ](niki1.png)
+![ ](niki3.png)
+![ ](niki4.png)
+![ ](nik2.png)
+![ ](niki6.png)
+![ ](niki5.png)
