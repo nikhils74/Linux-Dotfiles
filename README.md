@@ -8,8 +8,7 @@ They are designed to work seamlessly with **Arch Linux** and **Debian-based dist
 ## ✨ Features
 - Customized **shell** (bash/zsh) with useful aliases & prompt tweaks  
 - Themed **terminal appearance** for a clean and modern look  
-- Configuration for **window managers / desktop environments**  
-- Handy **scripts** to speed up workflow  
+- Configuration for **window managers / desktop environments**   
 - Dotfiles structured for easy portability and reusability  
 
 ---
